@@ -12,7 +12,7 @@ ICOPEGpt基于3000万规模的通用医疗照护数据集和爱照护自建的�
 - **web_demo2.py**: Web端启动工具，用于展示项目的Web界面。
 - **active_learning**: 主动学习模块，用于改进模型性能。
 - **configs**: 存放项目配置文件。
-- **ICopeGPT_weight_glm1**: 基于ChatGLM1模型的LoRA权重。
+- **ICOPEGpt_weight_glm1**: 基于ChatGLM1模型的LoRA权重。
 - **ICOPEGpt_weight_glm2**: 基于ChatGLM2模型的LoRA权重。
 - **Knowledge_buffer**: 知识缓冲区，用于存储本地知识库。
 - **RLHF_tools**: 强化学习工具包，用于模型的训练和优化。
